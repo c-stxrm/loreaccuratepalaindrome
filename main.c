@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+//https://leetcode.com/problems/valid-palindrome
 int main(int argc, char const *argv[]) {
     if (argc < 2) {
         printf("No command-line arguments provided.\n");
