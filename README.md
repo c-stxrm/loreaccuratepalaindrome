@@ -14,7 +14,7 @@ gcc -o palindrome main.c
 ./palindrome arg1 arg2 arg3 ...
 ```
 
-Replace `arg1`, `arg2`, `arg3`, etc. with the desired command-line arguments.
+Replace `arg1`, `arg2`, `arg3`, etc. with the desired command-line arguments. actually words of a phrase
 
 ## Example Use Cases
 
